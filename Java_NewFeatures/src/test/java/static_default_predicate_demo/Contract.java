@@ -2,7 +2,7 @@ package static_default_predicate_demo;
 
 public interface Contract {
 
-	//From Java 8 interface can have main method and it can be run idependently without a class
+	//From Java 8 interface can have main method and it can be run independently without a class
 //	 public static void main(String[] args) {
 //		System.out.println("Hello");
 //	}

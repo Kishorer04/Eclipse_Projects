@@ -27,6 +27,8 @@ public class Test {
 		                   
 	    int ans= c.add(30, 50);
 	    System.out.println(ans);
+	   
+	   
 	    
 
 	}

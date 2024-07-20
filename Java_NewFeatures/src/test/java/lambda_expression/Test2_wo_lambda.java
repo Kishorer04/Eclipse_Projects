@@ -21,6 +21,7 @@ public class Test2_wo_lambda {
 
 				            );
 		t.start();
+//		t.run();
 
 	}
          
